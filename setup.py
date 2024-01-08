@@ -36,7 +36,7 @@ def get_readme():
 def install():
     setup(
         name='googletrans',
-        version='3.1.0moded',
+        version='3.1.0',
         description=get_description(),
         long_description=get_readme(),
         license='MIT',
